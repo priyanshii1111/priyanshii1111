@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey there, you amazing human being! I'm Priyanshi 👋
 
-<!--
-**priyanshii1111/priyanshii1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a BCA student obsessed with turning ideas into code, solving problems that make my brain scream, and building projects that actually matter.  
+Currently learning Java and strengthening my fundamentals while working on my first chatbot project.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- **Languages:** C, C++, Java, HTML, CSS, JavaScript  
+- **Tools:** Git, VS Code  
+
+---
+
+## What I'm Learning
+- Core Java  
+- Web development  
+- Basics of cybersecurity  
+- Version control with Git & GitHub  
+
+---
+
+## Projects
+- **EC Chatbot (in progress)**  
+  My first personal project focused on frontend + AI integration (P.S. still working on it)
+
+---
+
+## Find Me Here
+- **GitHub:** [github.com/priyanshii1111](https://github.com/priyanshii1111)
+
+Learning, building, improving — one commit at a time. Stay tuned.
