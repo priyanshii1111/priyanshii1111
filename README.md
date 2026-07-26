@@ -6,12 +6,14 @@ Currently learning Java and strengthening my fundamentals while working on my fi
 ---
 
 ## Tech Stack
-- **Languages:** C, C++, Java, HTML, CSS, JavaScript  
-- **Tools:** Git, VS Code  
+- **Languages:** Python, C, C++, Java, HTML, CSS, JavaScript  
+- **Tools:** Git, VS Code, Streamlit  
 
 ---
 
 ## What I'm Learning
+- Python
+- NLP
 - Core Java  
 - Web development  
 - Basics of cybersecurity  
