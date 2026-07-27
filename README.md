@@ -1,7 +1,7 @@
 # Hey there, you amazing human being! I'm Priyanshi 👋
 
 I'm a BCA student obsessed with turning ideas into code, solving problems that make my brain scream, and building projects that actually matter.  
-Currently learning Java and strengthening my fundamentals while working on my first chatbot project.
+Currently learning Python Java and strengthening my fundamentals while working on my first chatbot project.
 
 ---
 
